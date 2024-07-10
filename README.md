@@ -48,6 +48,17 @@ Saving Cart: Whenever the cart is updated (item added or removed), the new cart 
 Conclusion:
 This app provides a basic structure for a Shopping application with product listing, detailed product view, and cart functionality. It demonstrates how to fetch data from an API, manage state with React hooks, and persist data using AsyncStorage. The design focuses on a clean and intuitive user experience, with easy navigation and seamless cart management.
 
+![homepage](https://github.com/PAA-KWASI08/rn-assignment7-11146019/assets/170183141/2be527b4-beb9-4319-af44-6bff2a65474e)
+
+![homepage1](https://github.com/PAA-KWASI08/rn-assignment7-11146019/assets/170183141/adfceedd-6045-4dfc-9660-3075f178b024)
+
+![productdetails](https://github.com/PAA-KWASI08/rn-assignment7-11146019/assets/170183141/ad9313b6-3c9c-4591-8639-4cd5aa8c3529)
+
+![productdetails1](https://github.com/PAA-KWASI08/rn-assignment7-11146019/assets/170183141/436bdd45-314e-4ebf-b8f2-bba943915844)
+
+![cartpage](https://github.com/PAA-KWASI08/rn-assignment7-11146019/assets/170183141/f30f4695-887c-4ba9-b90b-9a23cc2d0701)
+
+
 
 
 
