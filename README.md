@@ -27,7 +27,7 @@ Product Cards: Each product is displayed as a card with an image, title, categor
 Navigation Icons: Included navigation icons to allow users to move between screens easily.
 
 Data Fetching
-API Integration: Used axios to fetch product data from a sample API (https://fakestoreapi.com/products). This demonstrates how to integrate external data sources into the app.
+API Integration: Used axios to fetch product data from a sample API. This demonstrates how to integrate external data sources into the app.
 
 Data Storage
 AsyncStorage: Implemented AsyncStorage to persist cart data. This ensures that the cart contents are saved even if the app is closed or the device is restarted.
